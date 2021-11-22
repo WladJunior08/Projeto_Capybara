@@ -18,10 +18,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
-	React Select Em construção...
-</h4>
-
 
 ### Pré-requisitos
 
@@ -34,7 +30,7 @@ Executando o Projeto
 
 ```bash
 # Acesse a pasta do projeto no terminal/cmder
-$ cd nlw1
+$ cd Projeto_Capybara
 
 # Instale as dependências gem
 $ bundle install
@@ -46,6 +42,10 @@ $ cd Projeto_Capybara
 $ cucumber
 
 ```
+### Pendencias 
+-Os botões e o [Enter] do campo de busca de vagas para validação de mensagem não foram automatizados, pois mesmo usando comandos do selenium não foram encontrados para realizar a ação.
+
+
 ### Bugs para analisar
 - Filtro de cidade não respeita o Filtro de Buscar vaga;
 - Ao visualizar uma determinada vaga, não está sendo possível realizar uma nova busca;
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 Ferramentas:
-Sites que dão dicas e inclusive um code/preview do README para seu projeto:
+Sites que dão dicas e inclusive um code/preview do README para o projeto:
 
 https://www.campuscode.com.br/conteudos/buscando-elementos-com-precisao-usando-capybara
 https://www.campuscode.com.br/conteudos/capybara-cheatsheet
