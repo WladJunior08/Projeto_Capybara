@@ -7,24 +7,15 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">React</a>
 </h1>
-<p align="center">AutomaÁ„o para site de busca de vagas utilizando ferramentas de teste Web e BDD</p>
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> ï
- <a href="#roadmap">Roadmap</a> ï 
- <a href="#tecnologias">Tecnologias</a> ï 
- <a href="#contribuicao">ContribuiÁ„o</a> ï 
- <a href="#licenc-a">LicenÁa</a> ï 
- <a href="#autor">Autor</a>
-</p>
+<p align="center">Automa√ß√£o para site de busca de vagas utilizando ferramentas de teste Web e BDD</p>
 
 
-### PrÈ-requisitos
+### Pr√©-requisitos
 
-Antes de comeÁar, vocÍ vai precisar ter instalado em sua m·quina as seguintes ferramentas:
+Antes de come√ßar, voc√™ vai precisar ter instalado em sua m√°quina as seguintes ferramentas:
 [GitHub Desktop](https://git-scm.com), [Cucumber](https://cucumber.io/docs/installation/), [Capybara](https://rubygems.org/gems/capybara/versions/2.7.1?locale=pt-BR), [Cmder](https://cmder.net/), [Ruby](https://www.ruby-lang.org/pt/downloads/). 
 
-AlÈm disto È bom ter um editor para trabalhar com o cÛdigo como [VSCode](https://code.visualstudio.com/)
+Al√©m disto √© bom ter um editor para trabalhar com o c√≥digo como [VSCode](https://code.visualstudio.com/)
 
 Executando o Projeto
 
@@ -32,10 +23,10 @@ Executando o Projeto
 # Acesse a pasta do projeto no terminal/cmder
 $ cd Projeto_Capybara
 
-# Instale as dependÍncias gem
+# Instale as depend√™ncias gem
 $ bundle install
 
-# V· para a pasta 
+# V√° para a pasta 
 $ cd Projeto_Capybara
 
 # Execute o projeto
@@ -43,21 +34,21 @@ $ cucumber
 
 ```
 ### Pendencias 
--Os botıes e o [Enter] do campo de busca de vagas para validaÁ„o de mensagem n„o foram automatizados, pois mesmo usando comandos do selenium n„o foram encontrados para realizar a aÁ„o.
+-Os bot√µes e o [Enter] do campo de busca de vagas para valida√ß√£o de mensagem n√£o foram automatizados, pois mesmo usando comandos do selenium n√£o foram encontrados para realizar a a√ß√£o.
 
 
 ### Bugs para analisar
-- Filtro de cidade n„o respeita o Filtro de Buscar vaga;
-- Ao visualizar uma determinada vaga, n„o est· sendo possÌvel realizar uma nova busca;
+- Filtro de cidade n√£o respeita o Filtro de Buscar vaga;
+- Ao visualizar uma determinada vaga, n√£o est√° sendo poss√≠vel realizar uma nova busca;
 
 ### Melhorias
-- Melhoria nos botıes;
-- Melhoria na mensagem exibida quando n„o existe a vaga inexistentes;
-- Melhoria no campo de busca na utilizaÁ„o de caracteres especiais;
+- Melhoria nos bot√µes;
+- Melhoria na mensagem exibida quando n√£o existe a vaga inexistentes;
+- Melhoria no campo de busca na utiliza√ß√£o de caracteres especiais;
 
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construÁ„o do projeto:
+As seguintes ferramentas foram usadas na constru√ß√£o do projeto:
 
 - [GitHub Desktop](https://git-scm.com)
 - [Cucumber](https://cucumber.io/docs/installation/)
@@ -66,7 +57,7 @@ As seguintes ferramentas foram usadas na construÁ„o do projeto:
 
 
 Ferramentas:
-Sites que d„o dicas e inclusive um code/preview do README para o projeto:
+Sites que d√£o dicas e inclusive um code/preview do README para o projeto:
 
 https://www.campuscode.com.br/conteudos/buscando-elementos-com-precisao-usando-capybara
 https://www.campuscode.com.br/conteudos/capybara-cheatsheet
