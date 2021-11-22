@@ -26,7 +26,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Cucumber](https://nodejs.org/en/), [Capybara](https://www.ruby-lang.org/pt/downloads/), [Cmder](https://cmder.net/). 
+[GitHub Desktop](https://git-scm.com), [Cucumber](https://cucumber.io/docs/installation/), [Capybara](https://rubygems.org/gems/capybara/versions/2.7.1?locale=pt-BR), [Cmder](https://cmder.net/), [Ruby](https://www.ruby-lang.org/pt/downloads/). 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -46,3 +46,22 @@ $ cd Projeto_Capybara
 $ cucumber
 
 ```
+
+### ?? Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [GitHub Desktop](https://git-scm.com)
+- [Cucumber](https://cucumber.io/docs/installation/)
+- [Capybara](https://rubygems.org/gems/capybara/versions/2.7.1?locale=pt-BR)
+- [Cmder](https://cmder.net/)
+
+
+Ferramentas:
+Sites que dão dicas e inclusive um code/preview do README para seu projeto:
+
+https://www.makeareadme.com/#mind-reading
+https://stackedit.io/app
+https://dillinger.io/
+
+
