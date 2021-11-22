@@ -46,8 +46,16 @@ $ cd Projeto_Capybara
 $ cucumber
 
 ```
+### Bugs para analisar
+- Filtro de cidade não respeita o Filtro de Buscar vaga;
+- Ao visualizar uma determinada vaga, não está sendo possível realizar uma nova busca;
 
-### ?? Tecnologias
+### Melhorias
+- Melhoria nos botões;
+- Melhoria na mensagem exibida quando não existe a vaga inexistentes;
+- Melhoria no campo de busca na utilização de caracteres especiais;
+
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -60,8 +68,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Ferramentas:
 Sites que dão dicas e inclusive um code/preview do README para seu projeto:
 
-https://www.makeareadme.com/#mind-reading
-https://stackedit.io/app
-https://dillinger.io/
+https://www.campuscode.com.br/conteudos/buscando-elementos-com-precisao-usando-capybara
+https://www.campuscode.com.br/conteudos/capybara-cheatsheet
+https://rubydoc.info/github/teamcapybara/capybara/master/Capybara/Selenium/Find
+https://www.ti-enxame.com/pt/forms/insira-o-evento-de-pressionamento-de-tecla-em-javascript/957608294/
+
 
 
